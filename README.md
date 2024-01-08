@@ -63,6 +63,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 ### Deployment
 
+![Capture](https://github.com/Akshay-shirsat/Dashboard-React/assets/109891991/9c07f8f1-a4d4-489e-9089-86cee8730e2c)
+
+![02](https://github.com/Akshay-shirsat/Dashboard-React/assets/109891991/39fbad14-dd31-4057-8750-ccc228b5577a)
+
+
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
 ### `npm run build` fails to minify
